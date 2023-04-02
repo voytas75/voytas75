@@ -1,5 +1,7 @@
+# info
+
 - 👋 Hi, I’m @voytas75
-- 👀 I’m interested in Powershell
+- 👀 I’m interested in Powershell, M365, Azure, Crypto, GA
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Azure/M365 tools
 
