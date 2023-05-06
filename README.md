@@ -1,12 +1,12 @@
 # Welcome to my GitHub!
 
 ```powershell
-// Initializing system administrator
+# Initializing system administrator
 $username = "sysadmin"
 $techStack = ("M365", "Azure", "AD")
 $interests = ("PowerShell", "Sci-Fi books")
 
-// Creating user profile
+# Creating user profile
 $userProfile = New-Object -TypeName PSObject
 $userProfile | Add-Member -Type NoteProperty -Name "Name" -Value "John Doe"
 $userProfile | Add-Member -Type NoteProperty -Name "Username" -Value $username
@@ -14,7 +14,8 @@ $userProfile | Add-Member -Type NoteProperty -Name "Tech Stack" -Value $techStac
 $userProfile | Add-Member -Type NoteProperty -Name "Interests" -Value $interests
 
 $_welcome = @"
-Welcome to my GitHub, fellow programmers!"
+Welcome to my GitHub, fellow programmers!
+
 As a system administrator, I specialize in $techStack, utilizing the power of $interests to make my work more efficient.
 
 I am particularly passionate about PowerShell, and I believe that it is a crucial tool for managing modern IT systems.
@@ -26,7 +27,7 @@ Feel free to take a look at my projects and contributions, and please don't hesi
 
 Write-Host $_welcome
 
-// Signing off
+# Signing off
 Write-Host "Live long and prosper 🖖"
 ```
 
