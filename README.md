@@ -31,14 +31,6 @@ Write-Host $_welcome
 Write-Host "Live long and prosper 🖖"
 ```
 
-# info
-
-- 👋 Hi, I’m @voytas75
-- 👀 I’m interested in Powershell, M365, Azure, Crypto, GA
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Azure/M365 tools
-
-if you like my work:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KYBUS)
 <!---
 voytas75/voytas75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
