@@ -2,9 +2,10 @@
 
 ```powershell
 # Initializing system administrator
-$username = "sysadmin"
+$username  = "sysadmin"
 $techStack = ("M365", "Azure", "AD")
 $interests = ("PowerShell", "Sci-Fi books")
+$tiplink   = "https://ko-fi.com/voytas" 
 
 # Creating user profile
 $userProfile = New-Object -TypeName PSObject
@@ -12,6 +13,7 @@ $userProfile | Add-Member -Type NoteProperty -Name "Name" -Value "John Doe"
 $userProfile | Add-Member -Type NoteProperty -Name "Username" -Value $username
 $userProfile | Add-Member -Type NoteProperty -Name "Tech Stack" -Value $techStack
 $userProfile | Add-Member -Type NoteProperty -Name "Interests" -Value $interests
+$userProfile | Add-Member -Type NoteProperty -Name "buymecofee" -Value $tiplink
 
 $_welcome = @"
 Welcome to my GitHub, fellow programmers!
@@ -27,6 +29,8 @@ and concepts that I can bring into my work.
 
 Feel free to take a look at my projects and contributions, and please don't hesitate to reach 
 out if you have any questions or suggestions for collaboration.
+
+You can also show your support by tipping me on Ko-fi: [Click here to support me on Ko-fi]($tiplink).
 "@
 
 Write-Host $_welcome
