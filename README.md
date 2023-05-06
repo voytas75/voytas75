@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# [System.Welcome]::GitHub()
 
 ```powershell
 # Initializing system administrator
