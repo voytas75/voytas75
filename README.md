@@ -5,7 +5,7 @@
 $userName  = "voytas75"
 $techStack = ("M365", "Azure", "AD")
 $interests = ("PowerShell", "Python", "Sci-Fi books", "crypto")
-$instaLink = ""
+$instaLink = "https://instagram.com/scriptsavvyninja?igshid=OGQ5ZDc2ODk2ZA=="
 $tipLink   = "https://ko-fi.com/voytas" 
 
 # Creating user profile
