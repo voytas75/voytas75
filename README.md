@@ -2,10 +2,11 @@
 
 ```powershell
 # Initializing system administrator
-$username  = "sysadmin"
+$userName  = "voytas75"
 $techStack = ("M365", "Azure", "AD")
-$interests = ("PowerShell", "Sci-Fi books", "crypto")
-$tiplink   = "https://ko-fi.com/voytas" 
+$interests = ("PowerShell", "Python", "Sci-Fi books", "crypto")
+$instaLink = ""
+$tipLink   = "https://ko-fi.com/voytas" 
 
 # Creating user profile
 $userProfile = New-Object -TypeName PSObject
