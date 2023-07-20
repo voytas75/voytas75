@@ -14,6 +14,7 @@ $userProfile | Add-Member -Type NoteProperty -Name "Name" -Value "Wojciech Napie
 $userProfile | Add-Member -Type NoteProperty -Name "Username" -Value $username
 $userProfile | Add-Member -Type NoteProperty -Name "Tech Stack" -Value $techStack
 $userProfile | Add-Member -Type NoteProperty -Name "Interests" -Value $interests
+$userProfile | Add-Member -Type NoteProperty -Name "Instagram" -Value $instaLink
 $userProfile | Add-Member -Type NoteProperty -Name "Ko-fi" -Value $tiplink
 
 $_welcome = @"
