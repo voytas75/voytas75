@@ -41,6 +41,8 @@ Write-Host $_welcome
 Write-Host "Live long and prosper 🖖"
 ```
 
+📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md)
+
 &nbsp;
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KYBUS)
