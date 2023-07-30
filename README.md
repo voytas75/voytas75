@@ -5,9 +5,9 @@
 $userName  = "voytas75"
 $techStack = ("M365", "Azure", "AD")
 $interests = ("PowerShell", "Python", "Sci-Fi books", "crypto")
-$instaLink = "https://instagram.com/scriptsavvyninja?igshid=OGQ5ZDc2ODk2ZA=="
-$tipLink   = "https://ko-fi.com/voytas" 
-
+$instaLink = 'https://instagram.com/scriptsavvyninja?igshid=OGQ5ZDc2ODk2ZA=='
+$tipLink   = 'https://ko-fi.com/voytas'
+$sponsor   = 'https://github.com/sponsors/voytas75'
 # Creating user profile
 $userProfile = New-Object -TypeName PSObject
 $userProfile | Add-Member -Type NoteProperty -Name "Name" -Value "Wojciech Napierała"
@@ -16,6 +16,8 @@ $userProfile | Add-Member -Type NoteProperty -Name "Tech Stack" -Value $techStac
 $userProfile | Add-Member -Type NoteProperty -Name "Interests" -Value $interests
 $userProfile | Add-Member -Type NoteProperty -Name "Instagram" -Value $instaLink
 $userProfile | Add-Member -Type NoteProperty -Name "Ko-fi" -Value $tiplink
+$userProfile | Add-Member -Type NoteProperty -Name "Sponsor" -Value $sponsor
+
 
 $_welcome = @"
 Welcome to my GitHub, fellow programmers!
@@ -32,13 +34,14 @@ and concepts that I can bring into my work.
 Feel free to take a look at my projects and contributions, and please don't hesitate to reach 
 out if you have any questions or suggestions for collaboration.
 
-You can also show your support by tipping me on Ko-fi: $tiplink.
+You can also show your support by tipping me on Ko-fi: $tiplink or sponsor me: $sponsor.
+
+Live long and prosper 🖖
 "@
 
 Write-Host $_welcome
 
 # Signing off
-Write-Host "Live long and prosper 🖖"
 ```
 
 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md)
