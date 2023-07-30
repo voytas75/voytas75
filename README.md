@@ -39,7 +39,7 @@ You can also show your support by tipping me on Ko-fi: $tiplink or sponsor me: $
 Live long and prosper 🖖
 "@
 
-Write-Host $_welcome
+Write-Output $_welcome
 
 # Signing off
 ```
