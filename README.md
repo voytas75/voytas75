@@ -1,50 +1,18 @@
 # [System.Welcome]::GitHub()
 
-```powershell
-# Initializing system administrator
-$userName  = "voytas75"
-$techStack = ("M365", "Azure", "AD")
-$interests = ("PowerShell", "Python", "Sci-Fi books", "crypto")
-$instaLink = 'https://instagram.com/scriptsavvyninja?igshid=OGQ5ZDc2ODk2ZA=='
-$tipLink   = 'https://ko-fi.com/voytas'
-$sponsor   = 'https://github.com/sponsors/voytas75'
-# Creating user profile
-$userProfile = New-Object -TypeName PSObject
-$userProfile | Add-Member -Type NoteProperty -Name "Name" -Value "Wojciech Napierała"
-$userProfile | Add-Member -Type NoteProperty -Name "Username" -Value $username
-$userProfile | Add-Member -Type NoteProperty -Name "Tech Stack" -Value $techStack
-$userProfile | Add-Member -Type NoteProperty -Name "Interests" -Value $interests
-$userProfile | Add-Member -Type NoteProperty -Name "Instagram" -Value $instaLink
-$userProfile | Add-Member -Type NoteProperty -Name "Ko-fi" -Value $tiplink
-$userProfile | Add-Member -Type NoteProperty -Name "Sponsor" -Value $sponsor
+Welcome to my GitHub universe! I am Wojciech Napierała, also known as "ScriptSavvyNinja" or "voytas75" in the digital realm. As a seasoned system administrator, I navigate the intricate landscapes of M365, Azure, and Active Directory (AD) with finesse and expertise.
+
+My toolbox is filled with powerful instruments like PowerShell and Python, which I wield to enhance my efficiency and productivity. But my interests extend beyond the realm of code. I find solace in the pages of Sci-Fi books and intrigue in the world of cryptocurrency, both of which often serve as a source of inspiration for my work.
+
+My passion for PowerShell is palpable. I see it as an indispensable tool in the management of modern IT systems. My GitHub profile is a testament to this belief, showcasing my projects and contributions that leverage the power of PowerShell.
+
+When I'm not immersed in code or lost in a Sci-Fi novel, you can find me on [Instagram under the handle 'scriptsavvyninja'](https://instagram.com/scriptsavvyninja?igshid=OGQ5ZDc2ODk2ZA==). I also welcome support through my Ko-fi and [GitHub sponsors page](https://github.com/sponsors/voytas75).
+
+I invite you to explore my work, ask questions, suggest collaborations, and join me on this journey of discovery and creation. As I sign off my welcome message with a nod to my love for Sci-Fi, I wish you to *"Live long and prosper 🖖"*.
+
+Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md). It's a testament to my expertise and a glimpse into my journey with PowerShell.
 
 
-$_welcome = @"
-Welcome to my GitHub, fellow programmers!
-
-As a system administrator, I specialize in $techStack, utilizing the power of $interests 
-to make my work more efficient.
-
-I am particularly passionate about PowerShell, and I believe that it is a crucial tool 
-for managing modern IT systems.
-
-In my free time, I love to indulge in sci-fi books, which often inspire me with new ideas 
-and concepts that I can bring into my work.
-
-Feel free to take a look at my projects and contributions, and please don't hesitate to reach 
-out if you have any questions or suggestions for collaboration.
-
-You can also show your support by tipping me on Ko-fi: $tiplink or sponsor me: $sponsor.
-
-Live long and prosper 🖖
-"@
-
-Write-Output $_welcome
-
-# Signing off
-```
-
-📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md)
 
 &nbsp;
 
