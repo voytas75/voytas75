@@ -1,4 +1,4 @@
-# [System.Welcome]::GitHub()
+# [GitHub]::Welcome()
 
 Welcome to my GitHub universe! I am Wojciech Napierała, also known as "ScriptSavvyNinja" or "voytas75" in the digital realm. As a seasoned system administrator, I navigate the intricate landscapes of M365, Azure, and Active Directory (AD) with finesse and expertise.
 
