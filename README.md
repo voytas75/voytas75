@@ -10,9 +10,21 @@ When I'm not immersed in code or lost in a Sci-Fi novel, you can find me on [Ins
 
 I invite you to explore my work, ask questions, suggest collaborations, and join me on this journey of discovery and creation. As I sign off my welcome message with a nod to my love for Sci-Fi, I wish you to *"Live long and prosper 🖖"*.
 
+| Project | Info |
+|---------|-------------|
+|[PowerShell Azure OpenAI (PSAOAI) Module](https://github.com/voytas75/AzureOpenAI-PowerShell/blob/master/PSAOAI/README.md)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSAOAI)](https://www.powershellgallery.com/packages/PSAOAI)|
+|[Start-AIEventAnalyzer](https://github.com/voytas75/AzureOpenAI-PowerShell/blob/master/AIEventAnalyzer/README.md)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Start-AIEventAnalyzer)](https://www.powershellgallery.com/packages/Start-AIEventAnalyzer)|
+|[PowerShell Awesome Framework](https://github.com/voytas75/PowershellFramework)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PAF)](https://www.powershellgallery.com/packages/PAF)|
+|[PSFeedHandler](https://github.com/voytas75/PSFeedHandler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSFeedHandler)](https://www.powershellgallery.com/packages/PSFeedHandler)|
+|[GPT Prompts](https://github.com/voytas75/GPTprompts)||
+|[KrakenExchange](https://github.com/voytas75/KrakenExchange)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/KrakenExchange)](https://www.powershellgallery.com/packages/KrakenExchange)|
+|[PoshTrade](https://github.com/voytas75/PoshTrade)||
+|[Courses](https://github.com/voytas75/Courses)||
+|[PSWebCrawler](https://github.com/voytas75/PSWebCrawler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSWebCrawler)](https://www.powershellgallery.com/packages/PSWebCrawler)|
+|[Find-TaskServiceUser](https://github.com/voytas75/Find-TaskServiceUser) | [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/find-taskserviceuser)](https://www.powershellgallery.com/packages/Find-TaskServiceUser) |
+|[Genetic Algorithm Module](https://github.com/voytas75/genetic-algorithm) | [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/GeneticAlgorithm)](https://www.powershellgallery.com/packages/GeneticAlgorithm) |
+
 Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md). It's a testament to my expertise and a glimpse into my journey with PowerShell.
-
-
 
 &nbsp;
 
