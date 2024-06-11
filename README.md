@@ -13,6 +13,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 | Project | Info |
 |---------|-------------|
 |[PowerShell Azure OpenAI (PSAOAI) Module](https://github.com/voytas75/AzureOpenAI-PowerShell/blob/master/PSAOAI/README.md)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSAOAI)](https://www.powershellgallery.com/packages/PSAOAI)|
+|[AI PowerShell Team script](https://github.com/voytas75/AzureOpenAI-PowerShell/blob/master/AIPSTeam/README.md)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/AIPSTeam)](https://www.powershellgallery.com/packages/AIPSTeam)|
 |[Start-AIEventAnalyzer](https://github.com/voytas75/AzureOpenAI-PowerShell/blob/master/AIEventAnalyzer/README.md)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Start-AIEventAnalyzer)](https://www.powershellgallery.com/packages/Start-AIEventAnalyzer)|
 |[PowerShell Awesome Framework](https://github.com/voytas75/PowershellFramework)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PAF)](https://www.powershellgallery.com/packages/PAF)|
 |[PSFeedHandler](https://github.com/voytas75/PSFeedHandler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSFeedHandler)](https://www.powershellgallery.com/packages/PSFeedHandler)|
