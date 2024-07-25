@@ -14,7 +14,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |---------|-------------|
 |[PowerShell Azure OpenAI (PSAOAI) Module](https://github.com/voytas75/PSAOAI)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSAOAI)](https://www.powershellgallery.com/packages/PSAOAI)|
 |[AI PowerShell Team with RAG](https://github.com/voytas75/AIPSTeam)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/AIPSTeam)](https://www.powershellgallery.com/packages/AIPSTeam)|
-|[AI Python Team with RAG](https://github.com/voytas75/AIPyTeam)|soon|
+|[AI Python Team with RAG](https://github.com/voytas75/AIPyTeam)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/AIPyTeam)](https://www.powershellgallery.com/packages/AIPyTeam)|
 |[AI Event Analyzer](https://github.com/voytas75/AIEventAnalyzer)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Start-AIEventAnalyzer)](https://www.powershellgallery.com/packages/Start-AIEventAnalyzer)|
 |[tdb](https://github.com/voytas75/tdb)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/tdb)](https://www.powershellgallery.com/packages/tdb)|
 |[Get-CyclomaticComplexity](https://github.com/voytas75/VoytasCodeLab#get-cyclomaticcomplexity)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Get-CyclomaticComplexity)](https://www.powershellgallery.com/packages/Get-CyclomaticComplexity)|
