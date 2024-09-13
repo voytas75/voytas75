@@ -30,6 +30,8 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 
 Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md). It's a testament to my expertise and a glimpse into my journey with PowerShell.
 
+[NotebookLM about me](https://www.linkedin.com/posts/wojciechnapierala_notebooklm-google-activity-7240269955965878272-6hiP?utm_source=share&utm_medium=member_desktop)
+
 &nbsp;
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6KYBUS)
