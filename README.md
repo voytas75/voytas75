@@ -1,3 +1,5 @@
+import GitHubButton from 'react-github-btn'
+
 # [GitHub]::Welcome()
 
 Welcome to my GitHub universe! I am Wojciech Napierała, also known as "ScriptSavvyNinja" or "voytas75" in the digital realm. As a seasoned system administrator, I navigate the intricate landscapes of M365, Azure, and Active Directory (AD) with finesse and expertise.
@@ -20,7 +22,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |[Get-CyclomaticComplexity](https://github.com/voytas75/VoytasCodeLab#get-cyclomaticcomplexity)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/Get-CyclomaticComplexity)](https://www.powershellgallery.com/packages/Get-CyclomaticComplexity)|
 |[PowerShell Awesome Framework](https://github.com/voytas75/PowershellFramework)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PAF)](https://www.powershellgallery.com/packages/PAF)|
 |[PSFeedHandler](https://github.com/voytas75/PSFeedHandler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSFeedHandler)](https://www.powershellgallery.com/packages/PSFeedHandler)|
-|[GPT Prompts](https://github.com/voytas75/GPTprompts)||
+|[GPT Prompts](https://github.com/voytas75/GPTprompts)|<!-- Place this tag where you want the button to render. --><GitHubButton href="https://github.com/voytas75/GPTprompts" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_dimmed;" data-show-count="true" aria-label="Star voytas75/GPTprompts on GitHub">Star</GitHubButton>|
 |[KrakenExchange](https://github.com/voytas75/KrakenExchange)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/KrakenExchange)](https://www.powershellgallery.com/packages/KrakenExchange)|
 |[PoshTrade](https://github.com/voytas75/PoshTrade)||
 |[Courses](https://github.com/voytas75/Courses)||
