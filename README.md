@@ -31,6 +31,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |[KrakenCLI](https://github.com/voytas75/KrakenCLI) ||
 |[Dynamic Reflexive Memory](https://github.com/voytas75/DynamicReflexiveMemory) ||
 |[NewsNow Neon](https://github.com/voytas75/newsnow_neon) ||
+
 Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md). It's a testament to my expertise and a glimpse into my journey with PowerShell.
 
 [NotebookLM about me](https://www.linkedin.com/posts/wojciechnapierala_notebooklm-google-activity-7240269955965878272-6hiP?utm_source=share&utm_medium=member_desktop)
