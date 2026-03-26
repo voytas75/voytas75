@@ -21,7 +21,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |[PowerShell Awesome Framework](https://github.com/voytas75/PowershellFramework)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PAF?color=blue)](https://www.powershellgallery.com/packages/PAF)|
 |[PSFeedHandler](https://github.com/voytas75/PSFeedHandler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSFeedHandler?color=blue)](https://www.powershellgallery.com/packages/PSFeedHandler)|
 |[GPT Prompts](https://github.com/voytas75/GPTprompts)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/GPTprompts?style=flat)|
-|[KrakenExchange](https://github.com/voytas75/KrakenExchange)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/KrakenExchange?color=blue)](https://www.powershellgallery.com/packages/KrakenExchange)|
+|[KrakenCLI](https://github.com/voytas75/KrakenCLI)|
 |[PoshTrade](https://github.com/voytas75/PoshTrade)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/PoshTrade?style=flat)|
 |[Courses](https://github.com/voytas75/Courses)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/Courses?style=flat)|
 |[PSWebCrawler](https://github.com/voytas75/PSWebCrawler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSWebCrawler?color=blue)](https://www.powershellgallery.com/packages/PSWebCrawler)|
