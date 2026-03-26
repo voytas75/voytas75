@@ -23,7 +23,6 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |[GPT Prompts](https://github.com/voytas75/GPTprompts)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/GPTprompts?style=flat)|
 |[KrakenCLI](https://github.com/voytas75/KrakenCLI)|
 |[PoshTrade](https://github.com/voytas75/PoshTrade)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/PoshTrade?style=flat)|
-|[Courses](https://github.com/voytas75/Courses)|![GitHub Repo stars](https://img.shields.io/github/stars/voytas75/Courses?style=flat)|
 |[PSWebCrawler](https://github.com/voytas75/PSWebCrawler)|[![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/PSWebCrawler?color=blue)](https://www.powershellgallery.com/packages/PSWebCrawler)|
 |[Find-TaskServiceUser](https://github.com/voytas75/Find-TaskServiceUser) | [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/find-taskserviceuser?color=blue)](https://www.powershellgallery.com/packages/Find-TaskServiceUser) |
 |[Genetic Algorithm Module](https://github.com/voytas75/genetic-algorithm) | [![PowerShell Gallery](https://img.shields.io/powershellgallery/dt/GeneticAlgorithm?color=blue)](https://www.powershellgallery.com/packages/GeneticAlgorithm) |
