@@ -34,7 +34,6 @@ Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time:
 
 You can also read 📖 [*The Residual Sum*](./The_Residual_Sum.md), a speculative-fiction chronicle about SSI, emergent uncertainty, and an isolated replica named Shadow.
 
-Polish original: 📖 [*Summa residualna*](./Summa_Residualna.md).
 
 [NotebookLM about me](https://www.linkedin.com/posts/wojciechnapierala_notebooklm-google-activity-7240269955965878272-6hiP?utm_source=share&utm_medium=member_desktop)
 
