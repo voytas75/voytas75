@@ -29,6 +29,7 @@ I invite you to explore my work, ask questions, suggest collaborations, and join
 |[Dynamic Reflexive Memory](https://github.com/voytas75/DynamicReflexiveMemory) ||
 |[NewsNow Neon](https://github.com/voytas75/newsnow_neon) ||
 |[Prompt Manager](https://github.com/voytas75/PromptManager)||
+|[skills](https://github.com/voytas75/skills)||
 
 Among my works, you'll find a fascinating piece titled 📚 [Chronicles of Time: The PowerShell Discovery](./Chronicles_of_Time_The_PowerShell_Discovery.md). It's a testament to my expertise and a glimpse into my journey with PowerShell.
 
